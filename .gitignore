@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+TiniLlamaGradioChat/models/
+llamaindex-chat-with-docs/bge_onnx/
+llamaindex-chat-with-docs/chroma_db/
+llamaindex-chat-with-docs/TinyLlama/
+llamaindex-chat-with-docs/data
+Llama2RAG/TinyLlama/
 # Distribution / packaging
 .Python
 build/
